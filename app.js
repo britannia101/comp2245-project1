@@ -1,5 +1,4 @@
 // Project 1: write your form validation in this file.
-// Fresh Roots Market - mailing-list form validation
 
 const form = document.querySelector("#signup-form");
 
